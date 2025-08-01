@@ -1,0 +1,30 @@
+# Node.js projeleri için
+node_modules/
+npm-debug.log*
+
+# Ortak sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# VS Code ayarları
+.vscode/
+
+# Geçici dosyalar
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Build klasörleri
+dist/
+build/
+
+# Ortam dosyaları
+.env
+.env.local
+.env.*.local
+
+# Git işlemleri sırasında oluşabilecek dosyalar
+.gitignore
+.gitmodules
+*.orig
